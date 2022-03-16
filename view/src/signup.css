@@ -1,0 +1,66 @@
+.card3 {
+    font-family: cursive;
+    display: flex;
+    flex-direction: column;
+    width: 290px;
+    height: 360px;
+    border: none;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+
+.btn {
+    text-align: center;
+}
+
+.btn button {
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 4rem;
+    height: 2rem;
+    border-radius: 5px;
+}
+
+.insty {
+    border: none;
+    border-bottom: 2px solid red;
+    width: 242px
+}
+
+.new {
+    height: 360px;
+    width: 380px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: greenyellow;
+}
+
+.button {
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 4rem;
+    height: 2rem;
+    border-radius: 5px;
+}
